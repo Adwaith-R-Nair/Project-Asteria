@@ -46,11 +46,11 @@
 
 Project Asteria is an AI-powered software engineering platform that enables developers to transform natural language into production-ready software through transparent, collaborative, and educational AI-assisted development.
 
-Unlike conventional AI coding assistants that primarily optimize for rapid code generation, Asteria is designed to optimize for both productivity and understanding. Every meaningful stage of the engineering process — from interpreting requirements to planning, code generation, project evolution, and execution — is presented as visible progress rather than hidden behind a single generated response.
+Unlike conventional AI coding assistants that primarily optimize for rapid code generation, Asteria is designed to optimize for both productivity and understanding. Every meaningful stage of the engineering process - from interpreting requirements to planning, code generation, project evolution, and execution - is presented as visible progress rather than hidden behind a single generated response.
 
 The platform is intended to function as an AI engineering partner rather than a code generation tool. Developers remain in control of the project while AI accelerates implementation, explains decisions, and continuously collaborates throughout the software development lifecycle.
 
-Asteria aims to become a platform where developers do not simply generate software — they understand how and why it is built.
+Asteria aims to become a platform where developers do not simply generate software - they understand how and why it is built.
 
 ---
 
@@ -197,7 +197,7 @@ Educators, mentors, coding bootcamps, and technical communities interested in te
 
 # 8. User Personas
 
-## Persona A — The Learner
+## Persona A - The Learner
 
 **Goal:** Understand how modern software is built.
 
@@ -213,7 +213,7 @@ Educators, mentors, coding bootcamps, and technical communities interested in te
 
 ---
 
-## Persona B — The Builder
+## Persona B - The Builder
 
 **Goal:** Prototype ideas quickly without sacrificing maintainability.
 
@@ -229,7 +229,7 @@ Educators, mentors, coding bootcamps, and technical communities interested in te
 
 ---
 
-## Persona C — The Professional
+## Persona C - The Professional
 
 **Goal:** Increase engineering productivity while retaining full control over implementation.
 
